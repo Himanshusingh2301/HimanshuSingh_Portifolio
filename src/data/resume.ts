@@ -102,7 +102,7 @@ export const resumeData = {
             description: "Developed a full-stack password manager application to securely store and manage website credentials. Users can add site names, URLs, and passwords, with full support for editing, deleting, and updating entries. Focused on clean UI, efficient state management, and CRUD-based backend APIs.",
             techStack: ["React.js", "Node.js", "Express.js", "MongoDB", "REST APIs"],
             githublink: "https://github.com/Himanshusingh2301/password_manager",
-            sitelink: "",
+            sitelink: "https://password-manager-main-s8xq.onrender.com/",
             image: "/images/projects/Passwordmanager.png"
         }
 
